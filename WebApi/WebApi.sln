@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi.csproj", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "React.Entities", "..\React.Entities\React.Entities.csproj", "{F151F054-0C56-46B5-A811-910BC5278793}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "React.Service", "..\React.Service\React.Service.csproj", "{170E529A-B91A-4422-B268-C1074F8E12A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F151F054-0C56-46B5-A811-910BC5278793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F151F054-0C56-46B5-A811-910BC5278793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F151F054-0C56-46B5-A811-910BC5278793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170E529A-B91A-4422-B268-C1074F8E12A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170E529A-B91A-4422-B268-C1074F8E12A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170E529A-B91A-4422-B268-C1074F8E12A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170E529A-B91A-4422-B268-C1074F8E12A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

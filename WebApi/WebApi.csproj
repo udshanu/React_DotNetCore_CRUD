@@ -28,6 +28,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\React.Entities\React.Entities.csproj" />
+    <ProjectReference Include="..\React.Service\React.Service.csproj" />
   </ItemGroup>
 
 </Project>
