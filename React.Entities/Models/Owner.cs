@@ -25,7 +25,7 @@ namespace React.Entities.Models
 
         [StringLength(50)]
         [Required]
-        public string PostNumber { get; set; }
+        public int PostNumber { get; set; }
 
         [StringLength(50)]
         [Required]
