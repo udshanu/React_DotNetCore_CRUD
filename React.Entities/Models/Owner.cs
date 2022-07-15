@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using React.Entities.Common;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace React.Entities.Models
 {
-    public class Owner
+    public class Owner : Entity
     {
         [Key]
         [Required]
